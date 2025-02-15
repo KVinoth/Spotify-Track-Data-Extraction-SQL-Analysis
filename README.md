@@ -1,11 +1,17 @@
 🎵 Spotify Track Data Extraction, Storage & SQL Analysis
+
+
 📌 Project Overview
 This project extracts track data from Spotify, stores it in a MySQL database, and performs SQL-based analysis. It also includes basic data visualization and saves extracted track details into CSV files.
+
+
 
 🚀 Workflow
 1.Extract Track Data 🎧 – Fetch track details using Spotify API and process them.
 2.Store Data 💾 – Save the extracted data into CSV files and a MySQL database.
 3.Analyze Data 📊 – Perform SQL queries for insights and visualization.
+
+
 
 📂 Project Structure
 📦 Spotify-Track-Analysis
@@ -18,10 +24,15 @@ This project extracts track data from Spotify, stores it in a MySQL database, an
 │   ├── query.sql                 # Defines table structure & constraints  
 │   ├── data_analytics_1.sql       # SQL queries for data analysis  
 
+
+
 🛠️ Technologies Used
 Python 🐍 – Data extraction, processing & visualization
 MySQL 🛢️ – Database storage & querying
 SQL 📊 – Data analysis using advanced queries
+
+
+
 📊 SQL Topics Covered
 ✅ Table Constraints (Primary Keys, Indexing, Partitioning)
 ✅ Aggregation (SUM, AVG, COUNT, MIN, MAX)
